@@ -1,0 +1,72 @@
+1.  title: Eloquent Javascript
+    pageCount: 447
+    publishedDate: 2018
+    authors: Marijn Haverbeke
+    isPublished: true
+    categories: Software Engineering
+
+2.  title: Javascript and jQuery
+    pageCount: 645
+    publishedDate: 2014
+    authors: Jon Duckett
+    isPublished: true
+    categories: Front-end development
+
+3.  title: HTML and CSS
+    pageCount: 514
+    publishedDate: 2011
+    authors: Jon Duckett
+    isPublished: true
+    categories: Front-end development
+
+
+4.  title: Cracking The Coding Interview
+    pageCount: 510
+    publishedDate: 2013
+    authors: GAYLE LAAKMANN MCDOWELL
+    isPublished: true
+    categories: Preparing The Job
+
+5.  title: grokking Algorithms
+    pageCount: 258
+    publishedDate: 2016
+    authors: Aditya Y. Bhargava
+    isPublished: true
+    categories: Algorithm and DS
+ 
+6.  title: Data Structure and Algorithms
+    pageCount: 112
+    publishedDate: 2008
+    authors: Granville Barnett, Luca Del Tongo
+    isPublished: true
+    categories: Algorithm and DS
+
+7.  title: Clean Code
+    pageCount: 462
+    publishedDate: 2009
+    authors: Robert C. Martin Series
+    isPublished: true
+    categories: Clean Coding
+
+
+8.  title: Soft Skills
+    pageCount: 506
+    publishedDate: 2015
+    authors: John Z. Sonmez
+    isPublished: true
+    categories: Soft Skills
+
+9.  title: Python Crash Course
+    pageCount: 548
+    publishedDate: 2019
+    authors: Eric Matthes
+    isPublished: true
+    categories: Software Engineering
+
+
+10.  title: Beginning Django
+    pageCount: 609
+    publishedDate: 2017
+    authors: Daniel Rubio
+    isPublished: true
+    categories: Software Engineering

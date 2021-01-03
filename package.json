@@ -1,0 +1,34 @@
+{
+  "name": "bookdirectory",
+  "version": "1.0.0",
+  "description": "\"Do CRUD tasks on the books\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkenjayev/bookDirectory.git"
+  },
+  "keywords": [
+    "bookdirectory",
+    "REST",
+    "API",
+    "mongoDB"
+  ],
+  "author": "jkenjayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkenjayev/bookDirectory/issues"
+  },
+  "homepage": "https://github.com/jkenjayev/bookDirectory#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
